@@ -1,0 +1,7 @@
+{
+  "name": "loc-tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
